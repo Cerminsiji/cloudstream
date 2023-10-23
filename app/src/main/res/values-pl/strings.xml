@@ -556,4 +556,5 @@
     <string name="no_plugins_found_error">Nie znaleziono żadnych wtyczek w repozytorium</string>
     <string name="already_voted">Już oddano głos</string>
     <string name="no_repository_found_error">Nie znaleziono tego repozytorium, sprawdź adres URL lub spróbuj połączyć się przez VPN</string>
+    <string name="backup_frequency">Częstotliwość tworzenia kopii zapasowych</string>
 </resources>

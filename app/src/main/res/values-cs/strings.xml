@@ -577,4 +577,10 @@
     <string name="no_repository_found_error">Repozitář nenalezen, zkontrolujte adresu URL a zkuste použít VPN</string>
     <string name="default_account">@string/default_subtitles</string>
     <string name="already_voted">Již jste hlasovali</string>
+    <string name="backup_frequency">Frekvence záloh</string>
+    <string name="favorite_removed">„%s“ odebráno z oblíbených</string>
+    <string name="favorites_list_name">Oblíbené</string>
+    <string name="favorite_added">„%s“ přidáno do oblíbených</string>
+    <string name="action_add_to_favorites">Přidat do oblíbených</string>
+    <string name="action_remove_from_favorites">Odebrat z oblíbených</string>
 </resources>

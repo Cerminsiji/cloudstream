@@ -579,4 +579,9 @@
 \nNAPOMENA: Ako je zbroj 10 ili više, video player će automatski preskočiti učitavanje kada se ta poveznica učita!</string>
     <string name="already_voted">Već si glasao/la</string>
     <string name="backup_frequency">Učestalost rezervne kopije</string>
+    <string name="favorite_removed">%s uklonjeno iz favorita</string>
+    <string name="favorites_list_name">Favoriti</string>
+    <string name="favorite_added">%s dodano u favorite</string>
+    <string name="action_add_to_favorites">Dodaj u favorite</string>
+    <string name="action_remove_from_favorites">Ukloni iz favorita</string>
 </resources>
